@@ -90,7 +90,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <td align="center" valign="top" width="14.28%">
     <a href="https://trants.io">
-      <img src="https://avatars.githubusercontent.com/u/40693126?v=4?s=100" width="100px;" alt="Jake Bolam" />
+      <img src="https://avatars.githubusercontent.com/u/40693126?v=4?s=100" width="100px;" alt="Son Tran Thanh" />
       <br />
       <sub>
         <b>Son Tran Thanh</b>
